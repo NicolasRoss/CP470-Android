@@ -6,7 +6,6 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Bitmap;
 import android.provider.MediaStore;
 import android.util.Log;
 import android.os.Bundle;
@@ -43,14 +42,14 @@ public class ListItemsActivity extends AppCompatActivity {
         switchButton.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) {
+                if (isChecked) {
                     CharSequence text = ("Switch is On");
                     int duration = Toast.LENGTH_SHORT;
 
                     Toast toast = Toast.makeText(ListItemsActivity.this, text, duration);
                     toast.show();
 
-                } else{
+                } else {
                     CharSequence text = "Switch is off";
                     int duration = Toast.LENGTH_LONG;
 
