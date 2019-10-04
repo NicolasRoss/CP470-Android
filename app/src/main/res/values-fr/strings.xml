@@ -13,6 +13,7 @@
     <string name="dialog_message">Voulez-vous terminer l\'activité?</string>
     <string name="dialog_title">Terminer l\'activité</string>
     <string name="ok">D\'accord</string>
-    <string name="cancel">
-Annuler</string>
+    <string name="cancel">Annuler</string>
+    <string name="chatButton">Démarrer la discussion</string>
+    <string name="sendButton">Envoyer</string>
 </resources>
