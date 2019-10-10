@@ -16,4 +16,12 @@
     <string name="cancel">Annuler</string>
     <string name="chatButton">Démarrer la discussion</string>
     <string name="sendButton">Envoyer</string>
+    <string name="title_activity_test_tool_bar">TestToolBar</string>
+    <string name="action_one">Un</string>
+    <string name="action_two">Deux</string>
+    <string name="action_three">Trois</string>
+    <string name="testToolbar">Barre d\'outils de test</string>
+    <string name="action_about">Sur</string>
+    <string name="tool_dialog_title">Tu veux retourner?</string>
+    <string name="new_message">Nouveau Message</string>
 </resources>
