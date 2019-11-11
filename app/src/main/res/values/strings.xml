@@ -23,4 +23,5 @@
     <string name="action_about">About</string>
     <string name="tool_dialog_title">Do you want to go back?</string>
     <string name="new_message">New Message</string>
+    <string name="weatherButton">Weather</string>
 </resources>
